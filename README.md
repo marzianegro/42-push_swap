@@ -6,7 +6,6 @@ This is a sorting algorithm project that challenges students to implement a prog
 ## Features
 - **Sorting Algorithm**: Implements an efficient sorting algorithm to order a stack of integers.
 - **Stack Operations**: Uses operations such as swap, push, and rotate to manipulate two stacks.
-- **Visualizer**: Provides a visual representation of the sorting process.
 
 ## Getting Started
 ### Installation
