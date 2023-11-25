@@ -4,7 +4,7 @@
 This is a sorting algorithm project that challenges students to implement a program to sort a stack of integers using a set of predefined operations on two stacks.
 
 ## Features
-- **Sorting Algorithm**: Implements an efficient sorting algorithm (Mechanical Turk by @byaliego) to order a stack of integers.
+- **Sorting Algorithm**: Implements an efficient sorting algorithm (Mechanical Turk by @github/byaliego) to order a stack of integers.
 - **Stack Operations**: Uses operations such as swap, push, and rotate to manipulate two stacks.
 
 ## Getting Started
